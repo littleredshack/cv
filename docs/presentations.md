@@ -1,7 +1,6 @@
----
 layout: page
-title: Coursework
----
+title: "Presentations"
+permalink: /presentations/
 
 + Some stuff
 + Some more stuff
